@@ -1,11 +1,11 @@
-# PentestOS-config
+# Myconfig
 ## This is what it will install:
 - OHMYZSH
 - OHMYZSH pentest plugin
 - OHMYZSH nmap plugin
 - TPLINK 755 drivers
 ## How to install 
-`git clone https://github.com/Perchant76/PentestOS-config`
+`git clone https://github.com/Perchant76/Myconfig`
 
 `cd PentestOS-confg`
 
