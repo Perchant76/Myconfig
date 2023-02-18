@@ -34,4 +34,5 @@ sudo make
 sudo make install
 sudo modprobe 8188eu
 echo "Install complete, rebooting now"
+sleep 5
 sudo reboot now
